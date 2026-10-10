@@ -1,5 +1,11 @@
 # VibeCare Hospital Management System
 
+## Mở demo trực tuyến
+
+**[Bấm vào đây để mở phần mềm VibeCare HMS](https://vibecare-hms-lam-2026.tatm0967005.chatgpt.site/)**
+
+Tại màn hình đăng nhập, chọn vai trò **Bệnh nhân** hoặc **Bác sĩ**, sau đó dùng tài khoản mẫu ở bảng bên dưới. Demo chạy trực tiếp trên trình duyệt, không cần tải mã nguồn hay mở CMD.
+
 ## 1. Mục tiêu demo
 
 VibeCare HMS là phần mềm web minh họa quy trình quản lý bệnh viện theo tài liệu SRS và các sơ đồ UML của nhóm VibeCoding. Hệ thống phân luồng rõ ràng ngay từ đăng nhập:
